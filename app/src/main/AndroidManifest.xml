@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.seriousgamemates">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".TiempoCarga5"></activity>
+        <activity android:name=".TiempoCarga4" />
+        <activity android:name=".TiempoCarga3" />
+        <activity android:name=".TiempoCarga2" />
+        <activity android:name=".TiempoCarga" />
+        <activity android:name=".TriarNivell" />
+        <activity android:name=".TutorialRespondre" />
+        <activity android:name=".ExplicaBoto" />
+        <activity android:name=".TutorialApp" />
+        <activity android:name=".Juga5" />
+        <activity android:name=".SisPuntuacioV2" />
+        <activity android:name=".SisPuntuacio" />
+        <activity android:name=".Presentacio">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Final" />
+        <activity android:name=".MainJuga" />
+        <activity android:name=".Login" />
+        <activity android:name=".Juga4" />
+        <activity android:name=".Juga3" />
+        <activity android:name=".Juga2" />
+        <activity android:name=".Registra" />
+        <activity android:name=".Ranking" />
+        <activity android:name=".Juga" />
+    </application>
+
+</manifest>

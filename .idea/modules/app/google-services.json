@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032609906179",
+    "project_id": "serious-game-mates",
+    "storage_bucket": "serious-game-mates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032609906179:android:48fcbb828be06279075836",
+        "android_client_info": {
+          "package_name": "com.example.seriousgamemates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032609906179-v5rv0eg4mfeh1ji4hdqtrkj48gqagev1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seriousgamemates",
+            "certificate_hash": "87538a56192fd073e1cf60c3814f1455436c3aba"
+          }
+        },
+        {
+          "client_id": "1032609906179-vqstue4ptu6986sia1rir6lvfamjp70k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hD0xKWXJT19gudPZ6-aZLBMC_sYhIRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032609906179-vqstue4ptu6986sia1rir6lvfamjp70k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
